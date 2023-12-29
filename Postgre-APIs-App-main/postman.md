@@ -2,7 +2,7 @@
 {
     "username": "pd01",
     "name":"Priyanka Deshmukh",
-    "email": "aagam@gmail.com",
+    "email": "priyankadeshmukh.h@gmail.com",
     "password": "hello"
 }
 
