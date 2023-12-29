@@ -1,7 +1,7 @@
 <!-- User data testing  -->
 {
-    "username": "gl01",
-    "name":"Aagam Jain",
+    "username": "pd01",
+    "name":"Priyanka Deshmukh",
     "email": "aagam@gmail.com",
     "password": "hello"
 }
