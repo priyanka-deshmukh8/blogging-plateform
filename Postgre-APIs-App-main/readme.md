@@ -2,7 +2,7 @@
 ### Postgre-APIs-App
 This is a Node.js Blog REST APIs App web application that allows users to create, read, update, and delete (CRUD) blog posts. It will be built using Node.js, PostgreSQL, and Express on the server side.
 </br>
-This is the assignment given by [eazypg.in](https://eazypg.in/) for a fullstack intern. - (detail of the task updated here when the assignment submission period is completed). </br> 
+This is the assignment  for a fullstack intern. - (detail of the task updated here when the assignment submission period is completed). </br> 
 Visit my app  <a href="https://documenter.getpostman.com/view/25076245/2s8Z6vaEwE">here</a>
 
 ----
