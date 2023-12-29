@@ -1,7 +1,7 @@
 {
-    "name": "pg-v1-aagam",
+    "name": "priyanka-deshmukh8",
     "version": "1.0.0",
-    "description": "This is the Postgre APIs user and feed management app designed by aagam.",
+    "description": "This is the Postgre APIs user and feed management app designed by Priyanka.",
     "main": "index.js",
     "type": "module",
     "scripts": {
@@ -9,7 +9,7 @@
         "start": "node app.js"
     },
     "keywords": [],
-    "author": "Aaagam Jain",
+    "author": "Priyanka Deshmukh",
     "license": "ISC",
     "dependencies": {
         "dotenv": "^16.0.2",
