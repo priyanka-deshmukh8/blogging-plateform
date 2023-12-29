@@ -3,7 +3,7 @@
 This is a Node.js Blog REST APIs App web application that allows users to create, read, update, and delete (CRUD) blog posts. It will be built using Node.js, PostgreSQL, and Express on the server side.
 </br>
 This is the assignment  for a fullstack intern. - (detail of the task updated here when the assignment submission period is completed). </br> 
-Visit my app  <a href="https://documenter.getpostman.com/view/25076245/2s8Z6vaEwE">here</a>
+Visit my app  <a href="">here</a>
 
 ----
 
@@ -19,7 +19,7 @@ Visit my app  <a href="https://documenter.getpostman.com/view/25076245/2s8Z6vaEw
 - The server-side code has been written in Node.js & Express and uses the Express Router to handle HTTP requests and responses.
 - This app has been deployed on a render.com platform [visit here](https://postgre-apis-app.onrender.com).
 - The database has been deployed on elephant SQL cloud .
-- ALL the project documentation has been done on Postman [see here](https://documenter.getpostman.com/view/25076245/2s8Z6vaEwE) .
+- ALL the project documentation has been done on Postman [see here]() .
 
 -----
 
